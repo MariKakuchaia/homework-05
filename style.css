@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+/*----header-----*/
+.header{
+    background-color: #0020F4;
+    padding: 40px;
+}
+.inline-block{
+    display: inline-block;
+}
+.logo{
+    vertical-align: middle;
+    width: 115px;
+    height: 65px;
+}
+.navbar-a{
+    color: #FFFFFF;
+    font-size: 16px;  
+}
+.nav{
+    vertical-align: middle;
+}
+.li{
+    padding-right: 53px;
+}
+.contact{
+    font-size: 16px;
+    color: #171717;
+}
+.contact-div{
+    background-color: #FFFFFF;
+    border-radius: 28px;
+    width: 160px;
+    height: 55px;
+    padding: 18px 43px 18px 36px;
+    vertical-align: middle;
+}
+/*-------first section------*/
+.big-img{
+    width: 1195px;
+    height: 600px;
+    margin-bottom: 30px;
+}
+.image-box{
+    margin-top: 60px;
+}
+.little-img{
+    width: 219px;
+    height: 219px;
+    margin-right:25px;
+    margin-bottom: 60px;
+}
+.item-par{
+    margin-bottom: 18px;
+    font-size: 16px;
+    color: #171717;
+}
+.addition-info{
+    color: #FFFFFF;
+}
+.div-addition{
+    background-color: #0A22F4;
+    border-radius: 28px;
+    width: 341px;
+    height: 55px;
+    margin: 0 auto;
+    padding: 18px 77px 18px 57px;
+    margin-top: 58px;
+    margin-bottom: 180px;
+}
+/*------second section-------*/
+.blue-section{
+    background-color:  #0A22F4;
+    padding-top: 275px;
+    padding-left: 240px;
+    padding-bottom: 100px;
+}
+.contact-White {
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+.par-blue-section{
+    width: 463px;
+    height: 99;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 58px;
+}
+.map{
+    width: 463px;
+    height: 197px;
+    border-radius: 15px;
+    box-shadow: -15px 15px #FFFFFF;
+    margin-bottom: 60px;
+}
+.div-tel{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color:#FFFFFF;
+    padding:22px
+}
+.color-font-size{
+    color: #FFFFFF;
+    font-size: 22px;
+}
+.tel-num{
+    margin-right: 98px;
+}
+/*------footer------*/
+.footer{
+    background-color: #0A22F4 ;
+    padding-bottom: 40px;
+}
+.footer-par{
+    color: #FFFFFF;
+    font-size:16px;
+    margin-left:240px;
+}
+.footer-div{
+    margin-left: 400px;
+}
+.smart-web{
+    margin-left: 16px;
+}
+.font-size{
+    font-size: 13px;
+}
+.madeby{
+    color: #FFFFFF;
+}
